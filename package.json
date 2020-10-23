@@ -1,0 +1,16 @@
+{
+  "name": "node-mongo",
+  "version": "1.0.0",
+  "description": "A node Mongo Node MOdlue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Altaf Shaikh",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^3.0.10"
+  }
+}
